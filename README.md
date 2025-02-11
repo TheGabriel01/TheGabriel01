@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou GABRIEL</h1>
-<h3 align="center">Um desenvolvedor frontend apaixonado do Brasil</h3>
+<h3 align="center">Sou um desenvolvedor frontend apaixonado do Brasil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thegabriel01&label=Profile%20views&color=0e75b6&style=flat" alt="thegabriel01" /> </p>
 
