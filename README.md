@@ -1,3 +1,11 @@
+
+
+<h1>Bem Vindo Gabriel </h1> 
+
+![FORMULA 1](https://sportbuzz.com.br/wp-content/uploads/2024/09/gp-de-singapura-na-f1-como-foram-os-primeiros-treinos.jpg)
+
+
+
 <h1 align="center">Olá 👋, sou GABRIEL</h1>
 <h3 align="center">Sou um desenvolvedor frontend apaixonado do Brasil</h3>
 
