@@ -1,6 +1,6 @@
 <h1>Sou Gabriel </h1>
 
-![FORMULA 1](https://sportbuzz.com.br/wp-content/uploads/2024/09/gp-de-singapura-na-f1-como-foram-os-primeiros-treinos.jpg)
+![FORMULA 1](https://blog.xpeducacao.com.br/wp-content/uploads/2022/07/analise-e-desenvolvimento-de-sistemas-o-que-faz.jpg)
 
 
 
